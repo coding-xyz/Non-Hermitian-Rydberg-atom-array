@@ -2,7 +2,7 @@
 
 This repository contains the numerical simulation code and results presented in the following paper:
 
-> **[Observation of Non-Hermitian Many-Body Phase Transition in a Rydberg-Atom Array](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=QDeXVYQAAAAJ&citation_for_view=QDeXVYQAAAAJ:UebtZRa9Y70C)** 
+> **[Observation of Non-Hermitian Many-Body Phase Transition in a Rydberg-Atom Array](https://arxiv.org/abs/2512.02753)** 
 >
 > Yao-Wen Zhang, Biao Xu, Yijia Zhou, De-Sheng Xiang, Hao-Xiang Liu, Peng Zhou, Kuan Zhang, Ren Liao, Thomas Pohl, Weibin Li, Lin Li
 >
